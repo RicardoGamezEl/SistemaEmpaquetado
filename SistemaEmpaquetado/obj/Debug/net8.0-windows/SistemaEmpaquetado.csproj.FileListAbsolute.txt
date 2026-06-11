@@ -35,3 +35,4 @@ C:\Users\ricar\source\repos\SistemaEmpaquetado\SistemaEmpaquetado\obj\Debug\net8
 C:\Users\ricar\source\repos\SistemaEmpaquetado\SistemaEmpaquetado\obj\Debug\net8.0-windows\SistemaEmpaquetado.pdb
 C:\Users\ricar\source\repos\SistemaEmpaquetado\SistemaEmpaquetado\obj\Debug\net8.0-windows\SistemaEmpaquetado.genruntimeconfig.cache
 C:\Users\ricar\source\repos\SistemaEmpaquetado\SistemaEmpaquetado\obj\Debug\net8.0-windows\ref\SistemaEmpaquetado.dll
+C:\Users\ricar\source\repos\SistemaEmpaquetado\SistemaEmpaquetado\obj\Debug\net8.0-windows\SistemaEmpaquetado.sourcelink.json
